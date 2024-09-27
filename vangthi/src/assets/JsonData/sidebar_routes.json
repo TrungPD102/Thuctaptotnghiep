@@ -1,0 +1,12 @@
+[
+    
+    {
+        "display_name": "Danh sách xin vắng thi",
+        "route": "/"
+    },
+    {
+        "display_name": "Lịch thi tổng hợp",
+        "route": "/lichthitonghop"
+        
+    }
+]
